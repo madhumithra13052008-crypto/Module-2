@@ -204,5 +204,3 @@ The program was executed successfully
 
 
 
-## RESULT
-Thus the program "Get and Print Any Vowels Using Character Literal" was successfully executed and verified.
