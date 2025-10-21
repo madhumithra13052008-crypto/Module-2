@@ -1,5 +1,5 @@
-# Name: MADHUMITHRA.P
-# Reg No: 25013492
+# PYTHON PROGRAMMMING MODULE 1
+### DATE: 21.10.25
 
 # Experiment No:2-A: Python  Program to print 1 to n natural numbers .
 
